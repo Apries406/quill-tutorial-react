@@ -1,0 +1,6 @@
+export { default as InitDemo } from './InitDemo'
+export { default as DeltaDemo } from './DeltaDemo'
+export { default as RendererDemo } from './RendererDemo'
+export { default as SelectionDemo } from './SelectionDemo'
+export { default as FormatterDemo } from './FormatterDemo'
+export { default as EditorDemo } from './EditorDemo'
